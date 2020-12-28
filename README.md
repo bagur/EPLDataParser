@@ -1,2 +1,5 @@
 # EPLDataParser
-Parse and visualize EPL data available at http://www.football-data.co.uk/englandm.php
+Parse and visualize EPL data 
+Source: http://www.football-data.co.uk/englandm.php
+
+![](Arsenal_viz_1.gif)
